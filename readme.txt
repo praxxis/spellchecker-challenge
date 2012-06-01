@@ -1,0 +1,1 @@
+A spellchecker with a very specific set of rules. If you want to know what the rules are, ask me.
